@@ -1,4 +1,4 @@
-class Dog < ActiveRecords::Base
+class Dog
   
   def initialize()
     
